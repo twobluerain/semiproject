@@ -12,7 +12,9 @@
 
 - 개발인원 
 
-  ![team 1](https://user-images.githubusercontent.com/101780699/174953653-4ac19558-4aa3-40d4-8a4b-63a31ca75239.png)
+  
+
+  ![Untitled-1](https://user-images.githubusercontent.com/101780699/174955026-3f5c32d2-83e5-47b1-b67e-6e37cd34eeea.jpg)
 
 | 팀장   | 팀원   | 팀원   | 팀원   | 팀원   | 팀원   |
 | ------ | ------ | ------ | ------ | ------ | ------ |
