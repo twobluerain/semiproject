@@ -127,10 +127,10 @@
 
 ## Contributor
 
-- KBW : [@naver.com](mailto:@naver.com)
-- LHS  : [@gmail.com](mailto:@gmail.com)
-- LCW : [@naver.com](mailto:@naver.com)
-- WHK : [@naver.com](mailto:@naver.com)
-- KNH : [@gmail.com](mailto:@gmail.com)
-- LDB : [@naver.com](mailto:@naver.com)
+- KBW : [github](https://github.com/dakdlzhf/shopping)
+- LHS  : [github](https://github.com/gkrtjs406/semiproject_shopping)
+- LCW : [github](https://github.com/twobluerain/semiproject)
+- WHK : [github](https://github.com/WooHkeu/shoppingproject)
+- KNH : [github](https://github.com/evelynKr/shopping-website)
+- LDB : [github](https://github.com/olabeann/ShoppingMall)
 
